@@ -1,0 +1,6 @@
+<style type="text/css">
+	body{
+		color:<?php echo $text_color;?>;
+		background-color:<?php echo $bg_color;?>;
+	}
+</style>
